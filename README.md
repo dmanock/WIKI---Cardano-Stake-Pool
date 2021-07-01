@@ -1,2 +1,2 @@
-# WIKI---Cardano-Stake-Pool
+# XXXX--Cardano-Stake-Pool
 Build Cardano Stake Pool on Raspberry Pi
